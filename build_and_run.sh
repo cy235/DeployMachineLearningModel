@@ -1,6 +1,6 @@
 #!/bin/bash
 # update code
-project_dir="/opt/src/DeployMachineLearningModel/"
+project_dir="/Users/chenyi/DeployMachineLearningModel/"
 cd $project_dir && git pull
 
 # build and run with new code
